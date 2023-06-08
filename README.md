@@ -17,3 +17,5 @@ In this project, I worked with Python lists to store medical insurance cost data
 -.count()
 -.sort()
 
+The following provides context for: "Medical_Insurance_Estimates_vs_Costs.py"
+In this file, I have used list comprehensions and for loops to calculate average insurance costs for a random group of medical insurance clients. There are 3 initial lists containing the names, estimated insurance costs and actual insurance costs of the clients. Using for loops, I manipulated these lists to calculate average estimated costs, compare the average with individual insurance costs and update the list of estimated insurance costs using list comprehensions.
